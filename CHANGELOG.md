@@ -4,7 +4,7 @@ All notable changes to **Smart Commenting for Apache NetBeans** are documented i
 
 The project follows [Semantic Versioning](https://semver.org/).
 
-## [1.0.0] - 2026-10-30
+## [1.0.0] - 2026-11-01
 
 ### Added
 
