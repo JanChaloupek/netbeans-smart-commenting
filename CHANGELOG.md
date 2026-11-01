@@ -67,4 +67,4 @@ The project follows [Semantic Versioning](https://semver.org/).
 - User settings stored through NetBeans preferences.
 - Ant-based NetBeans module project with Java 8 source compatibility.
 
-[1.0.0]: https://github.com/USERNAME/netbeans-smart-commenting/releases/tag/v1.0.0
+[1.0.0]: https://github.com/JanChaloupek/netbeans-smart-commenting/releases/tag/v1.0.0
